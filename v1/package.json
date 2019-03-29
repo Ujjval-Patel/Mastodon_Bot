@@ -1,0 +1,19 @@
+{
+  "name": "mastodon_bot",
+  "version": "0.0.1",
+  "description": "Example code for mastadon bot learning from coding Train",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "mastodon",
+    "Education"
+  ],
+  "author": "Ujjval Patel",
+  "license": "MIT",
+  "dependencies": {
+    "mastodon-api": "^1.3.0"
+  }
+}
